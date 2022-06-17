@@ -1,0 +1,3 @@
+Xin chào các bạn 
+Cách đọc ghi file trong Java
+Tạm biệt
